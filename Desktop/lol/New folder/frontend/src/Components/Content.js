@@ -111,7 +111,7 @@ function Content() {
           </span>
         </div>
         <div className="buttons w-25">
-          <div className="btn-group mx-3 float-end">
+          <div className="btn-group me-3 float-end">
             <button
               type="button"
               className="btn btn-post dropdown-toggle"
